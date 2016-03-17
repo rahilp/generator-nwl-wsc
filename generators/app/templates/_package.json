@@ -1,0 +1,21 @@
+{
+  "name": "grunt-nwl-wsc-<%= name %>",
+  "version": "1.0.1",
+  "description": "Frontend Development for Newell WSC - <%= name %>",
+  "main": "index.js",
+  "scripts": {
+    "test": "package.json loaded"
+  },
+  "author": "Rahil Pirani / NEWELL RUBBERMAID",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-processhtml": "^0.3.13",
+    "less-plugin-autoprefix": "^1.5.1",
+    "load-grunt-config": "^0.17.2",
+    "load-grunt-tasks": "^3.3.0"
+  }
+}
